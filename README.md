@@ -1,6 +1,6 @@
-# houserent
+# Flutter Crypto Wallet
 
-A new Flutter project.
+A Flutter Crypto Wallet.
 
 ## Getting Started
 
