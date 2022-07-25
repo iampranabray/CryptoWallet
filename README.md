@@ -4,7 +4,8 @@ A Flutter Crypto Wallet.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a wallet which transfers your own token from wallet to another address .
+
 
 A few resources to get you started if this is your first Flutter project:
 
